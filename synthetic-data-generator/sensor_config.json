@@ -1,0 +1,197 @@
+{
+    "Room_1_1_140":{
+        
+        "PCL1_11140_OC_1_TL": {
+            "UUID": "ef72ff26-67d3-11ea-bc55-0242ac130003",
+            "Type": "Room_Outlet_Controller"
+        },
+
+        "PCL1_11140_MS_1_TL": {
+            "UUID": "fe72f8a0-67d3-11ea-bc55-0242ac130003",
+            "Type": "Room_Motion_Sensor"
+        },
+
+        "PCL1_11140_TS_1_TL": {
+            "UUID": "0e6c55a8-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Temperature_Sensor"
+        },
+
+        "PCL1_11140_LC_1_TL": {
+            "UUID": "129c1438-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Lock_Controller"
+        },
+        "PCL1_11140_DC_1_TL": {
+            "UUID": "872a618e-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Door_Camera"
+        }
+    },
+
+    "Room_1_1_141":{
+        
+        "PCL1_11141_OC_1_TL": {
+            "UUID": "17bf36a2-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Outlet_Controller" 
+        },
+
+        "PCL1_11141_MS_1_TL": {
+            "UUID": "1bef4bae-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Motion_Sensor" 
+        },
+
+        "PCL1_11141_TS_1_TL": {
+            "UUID": "1f989b66-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Temperature_Sensor" 
+        },
+
+        "PCL1_11141_LC_1_TL": {
+            "UUID": "24666b50-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Lock_Controller" 
+        },
+
+        "PCL1_11141_DC_1_TL": {
+            "UUID": "b6c55e48-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Door_Camera"
+        }
+    },
+
+    "Room_1_1_142":{
+        
+        "PCL1_11142_OC_1_TL": {
+            "UUID": "284de9be-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Outlet_Controller" 
+        },
+
+        "PCL1_11142_MS_1_TL": {
+            "UUID": "2b8500a4-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Motion_Sensor" 
+        },
+
+        "PCL1_11142_TS_1_TL": {
+            "UUID": "2ec3e91a-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Temperature_Sensor"
+        },
+
+        "PCL1_11142_LC_1_TL": {
+            "UUID": "32bdeb92-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Lock_Controller" 
+        },
+
+        "PCL1_11142_DC_1_TL": {
+            "UUID": "e57c4c92-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Door_Camera"
+        }
+    },
+
+    "Room_1_1_143":{
+        
+        "PCL1_11143_OC_1_TL": {
+            "UUID": "36462054-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Outlet_Controller" 
+        },
+
+        "PCL1_11143_MS_1_TL": {
+            "UUID": "3977121a-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Motion_Sensor" 
+        },
+
+        "PCL1_11143_TS_1_TL": {
+            "UUID": "3d85c810-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Temperature_Sensor"
+        },
+
+        "PCL1_11143_LC_1_TL": {
+            "UUID": "424d69f2-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Lock_Controller"
+        },
+
+        "PCL1_11143_DC_1_TL": {
+            "UUID": "8a7ecb01-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Door_Camera"
+        }
+    },
+
+    "Room_1_1_144":{
+        
+        "PCL1_11144_OC_1_TL": {
+            "UUID": "464bc54e-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Outlet_Controller" 
+        },
+
+        "PCL1_11144_MS_1_TL": {
+            "UUID": "4a04668c-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Motion_Sensor" 
+        },
+
+        "PCL1_11144_TS_1_TL": {
+            "UUID": "4d7cfeb4-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Temperature_Sensor" 
+        },
+
+        "PCL1_11144_LC_1_TL": {
+            "UUID": "512dd024-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Lock_Controller" 
+        },
+
+        "PCL1_11144_DC_1_TL": {
+            "UUID": "4b3c0794-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Door_Camera"
+        }
+    },
+
+    
+    "Room_1_1_150":{
+        
+        "PCL1_11150_OC_1_TL": {
+            "UUID": "548f6aa2-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Outlet_Controller" 
+        },
+
+        "PCL1_11150_MS_1_TL": {
+            "UUID": "5915e5d8-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Motion_Sensor" 
+        },
+
+        "PCL1_11150_TS_1_TL": {
+            "UUID": "5e900dea-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Temperature_Sensor" 
+        },
+
+        "PCL1_11150_LC_1_TL": {
+            "UUID": "61c0e174-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Lock_Controller" 
+        },
+
+        "PCL1_11150_DC_1_TL": {
+            "UUID": "6e194639-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Door_Camera"
+        }
+    },
+
+    "Room_1_1_184":{
+        
+        "PCL1_11184_OC_1_TL": {
+            "UUID": "6578075c-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Outlet_Controller" 
+        },
+
+        "PCL1_11184_MS_1_TL": {
+            "UUID": "69231f04-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Motion_Sensor" 
+        },
+
+        "PCL1_11184_TS_1_TL": {
+            "UUID": "6cb3b4ee-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Temperature_Sensor" 
+        },
+
+        "PCL1_11184_LC_1_TL": {
+            "UUID": "6fe8bf88-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Lock_Controller" 
+        },
+
+        "PCL1_11184_DC_1_TL": {
+            "UUID": "8b437454-67d4-11ea-bc55-0242ac130003",
+            "Type": "Room_Door_Camera"
+        }
+    }
+}
