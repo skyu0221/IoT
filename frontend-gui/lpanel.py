@@ -139,7 +139,7 @@ class FloorPlanPanel(wx.Panel):
         panel_size = self.info["size"]
         # print(panel_size)
         # bm = wx.Image("../floorplan.jpg", wx.BITMAP_TYPE_ANY).ConvertToBitmap()
-        img = wx.Image("../floorplan.jpg", wx.BITMAP_TYPE_JPEG)
+        img = wx.Image("floorplan.jpg", wx.BITMAP_TYPE_JPEG)
         bm = self._scale_image(img, int(panel_size[0]), int(panel_size[1])-100)
         dc.DrawBitmap(bm, 0, 0)
 
