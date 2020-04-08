@@ -2,6 +2,20 @@
 
 Please deploy the `backend server` and `synthetic data generator` separately to two different server.
 
+You can find our `backend server` on http://3.133.122.194:8000, and `synthetic data generator` on https://pacific-temple-42851.herokuapp.com/
+
+## Architecture
+
+![Architecture](/architecture.png)
+
+## Report
+
+Our first draft of the report is available [here](/Report-Draft.pdf).
+
+## Demo
+
+[Click for video (University login required)](https://drive.google.com/open?id=1NfoVn2cnpcxLPgdQ5m2riQiNsxhwE5CV)
+
 ## Important files in the `synthetic data generator`
 + `synthetic-data-generator/proj/urls.py`: Contains all API settings
 + `synthetic-data-generator/hello/data_generator.py`: Contains the code that generate the synthetic data for the location of each person in a day and sensor data in second granularity
